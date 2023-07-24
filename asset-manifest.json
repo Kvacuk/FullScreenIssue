@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FullScreenIssue/static/css/main.b41f62b7.css",
+    "main.js": "/FullScreenIssue/static/js/main.81b3edec.js",
+    "index.html": "/FullScreenIssue/index.html",
+    "main.b41f62b7.css.map": "/FullScreenIssue/static/css/main.b41f62b7.css.map",
+    "main.81b3edec.js.map": "/FullScreenIssue/static/js/main.81b3edec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41f62b7.css",
+    "static/js/main.81b3edec.js"
+  ]
+}
