@@ -1,0 +1,11 @@
+.wall {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: bisque;
+}
+
+:not(:root):fullscreen::backdrop {
+    position: absolute;
+    background: cadetblue;
+    overflow: visible;
+}
